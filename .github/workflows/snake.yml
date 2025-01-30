@@ -1,14 +1,9 @@
 name: GitHub Snake Game
 
 on:
-  # Run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-
-  # Allow manual triggering
   workflow_dispatch:
-
-  # Trigger on pushes to the main branch
   push:
     branches:
       - main
@@ -19,11 +14,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -33,7 +26,6 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Step 3: Deploy to 'output' branch using PAT
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
