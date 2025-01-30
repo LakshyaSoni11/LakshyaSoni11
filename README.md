@@ -15,5 +15,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshyaSoni11&show_icons=true&theme=radical)
 
 ## 🏆 Coding Ninjas Profile
-[!LakshyaSoni(https://img.shields.io/badge/Coding%20Ninjas-View%20Profile-orange?style=for-the-badge&logo=codeforces)](https://www.codingninjas.com/codestudio/profile/[your-codingninjas-username])
+[![Lakshya Soni](https://img.shields.io/badge/Coding%20Ninjas-View%20Profile-orange?style=for-the-badge&logo=codeforces)](https://www.codingninjas.com/codestudio/profile/LakshyaSoni)
+
 
