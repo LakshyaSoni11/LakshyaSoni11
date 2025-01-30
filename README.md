@@ -14,5 +14,5 @@
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshyaSoni11&show_icons=true&theme=radical)
 
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/[your-leetcode-username]?theme=dark)
+## 🏆 Coding Ninjas Stats
+<img src="https://github.com/LakshyaSoni11/LakshyaSoni11/blob/main/codingninjas-stats.png" alt="Coding Ninjas Stats" width="500"/>
