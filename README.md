@@ -1,73 +1,54 @@
 # 👋 Hello, I'm Lakshya Soni
+**Full-Stack Developer | Generative AI Enthusiast | Final Year B.Tech CSE Student**
 
-💻 Dedicated to mastering Data Structures and Algorithms through C++, focusing on efficient implementation and optimal solutions.
+I am a passionate developer dedicated to mastering **Data Structures and Algorithms** in C++ and building scalable web applications using the **MERN Stack**. Currently, I'm exploring the intersection of LLMs and cybersecurity for my final year project.
 
-## 📈 GitHub Stats
-![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshyaSoni11&show_icons=true&theme=radical&hide_border=false)
+---
 
-## 🏆 Coding Ninjas Profile
-[![Lakshya Soni](https://img.shields.io/badge/Coding%20Ninjas-View%20Profile-orange?style=for-the-badge&logo=codeforces)](https://www.codingninjas.com/codestudio/profile/LakshyaSoni)
+### 🚀 Quick Overview
+* 🎓 **Education:** B.Tech in CSE at Amrita Vishwa Vidyapeetham, Coimbatore.
+* 🏆 **Achievements:** National Finalist @ Tredence AI Hackathon | Walmart Nirvana Hackathon Participant.
+* 🛠️ **Current Focus:** Hardening Medical LLMs (BioGPT) against vulnerabilities.
+* 💼 **Experience:** Internships in Full-Stack Development and UI/UX Design.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a> 
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="50" height="50"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next.js" width="50" height="50"/>
-</a>
+### 🛠️ Tech Stack & Tools
 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" width="50" height="50"/>
-</a>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **DevOps/Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="mongodb" width="50" height="50"/>
-</a>
+---
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/>
-</a>
-
-<a href="https://www.convex.dev/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/87598983?s=200&v=4" alt="convex" width="50" height="50"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="50" height="50"/>
-</a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a> 
+### 📊 GitHub Stats & Coding Profiles
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni11&show_icons=true&theme=radical&hide_border=false" alt="Lakshya's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSoni11&layout=compact&theme=radical" alt="Top Languages" width="41%" />
 </p>
+
+<p align="center">
+  <a href="https://www.codingninjas.com/codestudio/profile/LakshyaSoni">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-View%20Profile-orange?style=for-the-badge&logo=codeforces" alt="Coding Ninjas" />
+  </a>
+</p>
+
+---
+
+### 🌟 Featured Projects
+* **AI Mock Interview Agent:** A platform using Gemini API to simulate real-world technical interviews.
+* **Job Portal Application:** A full-featured MERN stack application for career management.
+* **AI Trip Planner:** Personalized travel itineraries generated via Generative AI.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+
+---
+*“Turning logic into code and ideas into reality.”*
