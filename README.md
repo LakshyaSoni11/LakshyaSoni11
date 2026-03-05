@@ -8,7 +8,6 @@ I am a passionate developer dedicated to mastering **Data Structures and Algorit
 ### 🚀 Quick Overview
 * 🎓 **Education:** B.Tech in CSE at Amrita Vishwa Vidyapeetham, Coimbatore.
 * 🏆 **Achievements:** National Finalist @ Tredence AI Hackathon | Walmart Nirvana Hackathon Participant.
-* 🛠️ **Current Focus:** Hardening Medical LLMs (BioGPT) against vulnerabilities.
 * 💼 **Experience:** Internships in Full-Stack Development and UI/UX Design.
 
 ---
