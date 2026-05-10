@@ -2,16 +2,17 @@
 
 ### Full Stack Developer | MERN Stack | Generative AI Enthusiast
 
-I’m a Final Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham, Coimbatore, passionate about building scalable full-stack applications and AI-powered products.
+I'm a Final Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham, Coimbatore, passionate about building scalable full-stack applications and AI-powered products.
 
 I have hands-on experience as a former Full Stack Developer Intern, where I worked on modern MERN stack applications, RESTful APIs, authentication systems, database optimization, and AI integrations using Gemini API.
 
-Currently, I’m focused on:
+Currently, I'm focused on:
 - Full-Stack Development
 - Data Structures & Algorithms in C++
 - System Design Fundamentals
 - Scalable Backend Architectures
 - AI + Web Integrations
+
 ---
 
 # 🚀 Quick Highlights
@@ -34,8 +35,6 @@ Currently, I’m focused on:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
----
-
 ## Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
@@ -43,22 +42,16 @@ Currently, I’m focused on:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white)
 
----
-
 ## Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-005571?logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens)
 
----
-
 ## Database & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
----
 
 ## Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -69,16 +62,15 @@ Currently, I’m focused on:
 
 ---
 
+# 📊 GitHub Stats
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LakshyaSoni11&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em" 
-  />
-  &nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LakshyaSoni11&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em" 
-  />
+  <img src="https://streak-stats.demolab.com?user=LakshyaSoni11&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaSoni11&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaSoni11&theme=tokyonight" height="180em" />
 </p>
 
 ---
@@ -149,7 +141,6 @@ Currently, I’m focused on:
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-soni-83b42a23b/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LakshyaSoni11)
 
 ---
