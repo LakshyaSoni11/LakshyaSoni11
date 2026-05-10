@@ -64,13 +64,27 @@ Currently, I'm focused on:
 
 # 📊 GitHub Stats
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LakshyaSoni11&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshyaSoni11&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
+<!-- Streak + Stats side by side -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaSoni11&theme=tokyonight" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaSoni11&theme=tokyonight" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=LakshyaSoni11&theme=tokyonight&hide_border=true" height="180em"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaSoni11&theme=tokyonight" height="180em"/>
+</p>
+
+<!-- Language breakdown -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaSoni11&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaSoni11&theme=tokyonight" height="180em"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LakshyaSoni11&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 </p>
 
 ---
