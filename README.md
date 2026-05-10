@@ -4,15 +4,14 @@
 
 I’m a Final Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham, Coimbatore, passionate about building scalable full-stack applications and AI-powered products.
 
-I have hands-on experience developing modern web applications using the MERN stack, designing RESTful APIs, implementing JWT authentication, optimizing databases, and integrating Generative AI APIs like Gemini.
+I have hands-on experience as a former Full Stack Developer Intern, where I worked on modern MERN stack applications, RESTful APIs, authentication systems, database optimization, and AI integrations using Gemini API.
 
 Currently, I’m focused on:
 - Full-Stack Development
-- System Design Fundamentals
 - Data Structures & Algorithms in C++
-- AI + Web Integrations
+- System Design Fundamentals
 - Scalable Backend Architectures
-
+- AI + Web Integrations
 ---
 
 # 🚀 Quick Highlights
