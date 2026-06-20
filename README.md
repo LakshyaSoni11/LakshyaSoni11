@@ -4,7 +4,7 @@
 
 I'm a Final Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham, Coimbatore, passionate about building scalable full-stack applications and AI-powered products.
 
-I have hands-on experience as a former Full Stack Developer Intern, where I worked on modern MERN stack applications, RESTful APIs, authentication systems, database optimization, and AI integrations using Gemini API.
+I'm currently working as a Full Stack Developer at **Looply Forum**, an AI startup, and previously interned in full-stack roles building MERN stack applications, RESTful APIs, authentication systems, database optimization, and AI integrations using the Gemini API.
 
 Currently, I'm focused on:
 - Full-Stack Development
@@ -18,7 +18,7 @@ Currently, I'm focused on:
 # 🚀 Quick Highlights
 
 - 🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham, Coimbatore
-- 💻 Full Stack Developer Intern @ RhiBhus Infosystems
+- 💻 Full Stack Developer @ Looply Forum (AI Startup)
 - 🌐 Worked on MERN Stack healthcare and AI platforms
 - 🏆 National Semi-Finalist – Tredence AI Hackathon
 - 🛠 Built AI-powered applications using Gemini API
@@ -64,22 +64,21 @@ Currently, I'm focused on:
 
 # 📊 GitHub Stats
 
+<!-- Core stats card (replaces the unreliable github-profile-summary-cards stats card) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSoni11&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshyaSoni11&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
-<!-- Streak + Stats side by side -->
+<!-- Streak stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LakshyaSoni11&theme=tokyonight&hide_border=true" height="180em"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaSoni11&theme=tokyonight" height="180em"/>
-</p>
-
-<!-- Language breakdown -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaSoni11&theme=tokyonight" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaSoni11&theme=tokyonight" height="180em"/>
 </p>
 
 <!-- Trophies -->
@@ -125,6 +124,15 @@ Currently, I'm focused on:
 ---
 
 # 💼 Experience
+
+## Full Stack Developer — Looply Forum (AI Startup)
+**Apr 2026 – Present**
+
+- Building full-stack features for an AI-powered product as part of a startup team
+- Working across the MERN stack, integrating AI capabilities into core product flows
+- Collaborating closely with a small team in a fast-moving startup environment
+
+---
 
 ## Full Stack Developer Intern — RhiBhus Infosystems
 **May 2025 – Jul 2025**
