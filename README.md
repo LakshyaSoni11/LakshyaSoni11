@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakshya Soni
+# 👋 Hi, I'm Lakshya Soni.
 
 ### Full Stack Developer | MERN Stack | Generative AI Enthusiast
 
